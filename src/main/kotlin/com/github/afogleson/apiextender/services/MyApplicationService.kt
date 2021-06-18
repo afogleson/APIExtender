@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.afogleson.apiextender.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.afogleson.apiextender.MyBundle
 
 class MyApplicationService {
 
